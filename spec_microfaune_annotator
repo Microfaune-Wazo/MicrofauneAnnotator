@@ -1,0 +1,31 @@
+Définitions/Glossaire
+
+Annotation : 
+
+
+Données
+
+Données d'annotation
+- Espèce de l'oiseau
+- Lieu où le son a été pris
+- Qualité de l'audio (note sur 10)
+
+
+
+Fonctionnalités (user stories ou exigences)
+
+Exigence 1 : Charger un fichier audio
+
+Exigence 2 : Annoter un fichier audio
+
+Etapes
+- Le fichier audio étant chargé, afficher l'écran d'annotation
+- L'utilisateur annote l'audio
+- Un bouton sauvegarder permet de sauvegarder l'annotation dans la base de données
+
+
+Contexte
+
+
+Specifications non fonctionnelles (performance, sécurité, conformité)
+
